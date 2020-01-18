@@ -6,7 +6,7 @@
 This app is the pre-work project for the code path iOS class. The app allows you to input your own custom string, change the color of the string to purple, and change the background to orange. The app is Studio Ghibli themed with all the cute little images around the screen.
 
 ### App Walk-though
-<img src="http://g.recordit.co/scZrruwbth.gif" width=200><br>
+<img src="http://g.recordit.co/scZrruwbth.gif" width=500><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
