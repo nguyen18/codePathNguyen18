@@ -1,19 +1,26 @@
 # PreWorkReadMe
 
-Hello! I completed both the required and bonus features of this pre-project :)
+## HELLO STUDIO GHIBLI
 
-Here is the gif of my app: https://recordit.co/scZrruwbth
+### App Description
+This app is the pre-work project for the code path iOS class. The app allows you to input your own custom string, change the color of the string to purple, and change the background to orange. The app is Studio Ghibli themed with all the cute little images around the screen.
 
-Required features I finished:
-✓ Change text color button
-✓ Text label present with a color/shadow
-✓ Changed view background
+### App Walk-though
+<img src="http://g.recordit.co/scZrruwbth.gif" width=200><br>
 
-Bonus features I finished:
-✓ Change text string with text field
-✓ Change background color button
-✓ Press main view to reset to original state
-✓ Added images
+### Required User Stories
+- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
-Thanks for this cool opportunity! I had a lot of fun :D
-- Taylor Nguyen
+### Optional User Stories
+- [x] 1. User can tap a button to change the color of the background view.
+- [x] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [x] 3. User can tap on the background view to reset all views to default settings.
+- [x] 4. User can update the label text with custom text entered into the text field.
+   - [x] a. User can enter text into a text field using the keyboard.
+   - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
+   - [ ] c. If the text field is empty, update label with default text string.
+   - [ ] d. The keyboard is dismissed after the button has been tapped.
+
+### Thanks for the oppurtunity! It was fun :)
